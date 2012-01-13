@@ -1,0 +1,5 @@
+D:\Programas\Sanitas\DSS101414- BW Consola\ViewController\public_html\jsp	Al	Aceptar	../sfc/img/bwAceptar.png
+D:\Programas\Sanitas\DSS101414- BW Consola\ViewController\public_html\jsp	Al	Nuevo	../sfc/img/bwNuevo.png
+D:\Programas\Sanitas\DSS101414- BW Consola\ViewController\public_html\jsp	Md	Modificar	../sfc/img/bwEditar.png
+D:\Programas\Sanitas\DSS101414- BW Consola\ViewController\public_html\jsp	An	Anular	../sfc/img/bwAnular.png
+D:\Programas\Sanitas\DSS101414- BW Consola\ViewController\public_html\jsp	Cl	Cancelar	../sfc/img/bwCancelar.png
